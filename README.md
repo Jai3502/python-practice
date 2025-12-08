@@ -1,1 +1,1 @@
-# python-practice
+Python is a high-level, interpreted, and general-purpose programming language known for its simplicity and readability. It is widely used in web development, automation, data analysis, machine learning, artificial intelligence, scripting, and more.
