@@ -40,15 +40,3 @@ Each topic includes explanations and executable code blocks to help you understa
 
 ---
 
-##  Requirements
-
-To run the notebook, install:
-
-- **Python 3.x**
-- **Jupyter Notebook** or **JupyterLab**
-
-Install using:
-
-```bash
-pip install notebook
-
